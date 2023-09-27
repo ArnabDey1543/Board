@@ -3,16 +3,15 @@
 
 ## Screenshots 🎬
 
+![Screenshot 2023-09-27 111054](https://github.com/ArnabDey1543/Board/assets/81821430/662acf12-7f0c-498f-9004-7e92184dabad)
 
+![Screenshot 2023-09-27 111201](https://github.com/ArnabDey1543/Board/assets/81821430/b3ea2ae1-6693-47b9-bf6c-189c51e910e1)
 
+![Screenshot 2023-09-27 111348](https://github.com/ArnabDey1543/Board/assets/81821430/2b236950-dbc8-4472-99e6-a925eddafa2f)
 
-![Screenshot 2023-09-27 111054](https://github.com/ArnabDey1543/Board/assets/81821430/94f46ecc-f829-4c70-be12-56c4f8daa69d)
-![Screenshot 2023-09-27 111201](https://github.com/ArnabDey1543/Board/assets/81821430/d6051a03-ffaf-44ef-9d01-29819f0f1199)
-![Screenshot 2023-09-27 111348](https://github.com/ArnabDey1543/Board/assets/81821430/cf11942a-b169-472e-9b88-a6fbc381c63b)
-![Screenshot 2023-09-27 111319](https://github.com/ArnabDey1543/Board/assets/81821430/054ab76f-c084-4fa4-bbcc-174ff39ddf34)
-![Screenshot 2023-09-27 111333](https://github.com/ArnabDey1543/Board/assets/81821430/511667af-b1cc-4c39-b497-20c6f5e94df6)
+![Screenshot 2023-09-27 111319](https://github.com/ArnabDey1543/Board/assets/81821430/9251c2b4-d9f2-4fd9-b91d-fbb8ff4c2b05)
 
-
+![Screenshot 2023-09-27 111333](https://github.com/ArnabDey1543/Board/assets/81821430/3f4fbf13-1f49-4f5f-b30d-1e9d93770d02)
 
 ## Features ✨
 
