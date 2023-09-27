@@ -30,7 +30,7 @@
 - [React.js](https://reactjs.org)
 - [Auth0](https://auth0.com/)
 - [Coingecko](https://coingecko.com)
-
+- [ChartJS](https://chartjs.com)
 
 
 
